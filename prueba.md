@@ -1,4 +1,4 @@
-# Evaluación Técnica — Data Engineer SSR
+# Evaluación Técnica — Data Engineer
 
 ## Esquema de referencia
 
